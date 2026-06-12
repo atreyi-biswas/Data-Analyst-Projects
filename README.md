@@ -46,7 +46,7 @@ The aim is to approach data with a problem-solving mindset and extract insights 
 
 | Project | Description | Skills | Status | Project Link |
 |--------|------------|--------|-------|-------|
-| Wheather Analysis | Create wheather insights using API for different cities  | SQL, Python | in progress |  |
+| Wheather Analysis | Create wheather insights using API for different cities  | Python, PowerBI | in progress |  |
 | Churn Analysis | Identify why customers leave | EDA, Visualization | in progress |  |
 | A/B Testing | Compare performance of two versions | Statistics |  |  |
 | Supply Chain Analysis | Analyze demand and inventory | Data Analysis |  |  |
