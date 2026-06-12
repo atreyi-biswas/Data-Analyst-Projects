@@ -36,8 +36,8 @@ The aim is to approach data with a problem-solving mindset and extract insights 
 
 | Project | Description | Skills | Status | Project Link |
 |--------|------------|--------|-------|-------|
-| Sales Data Analysis | Analyze revenue trends and top-selling products | Excel, Pandas |  |  |
-| COVID-19 Analysis | Explore global cases and trends | Data Cleaning, Visualization |  |  |
+| Sales Data Analysis | Analyze revenue trends and top-selling products | Excel, Pandas | in progress |  |
+| COVID-19 Analysis | Explore global cases and trends | Data Cleaning, Visualization | in progress |  |
 | Netflix Dataset Analysis | Understand content trends and genres | EDA, Insights |  |  |
 
 ---
@@ -46,8 +46,8 @@ The aim is to approach data with a problem-solving mindset and extract insights 
 
 | Project | Description | Skills | Status | Project Link |
 |--------|------------|--------|-------|-------|
-| Customer Segmentation | Group users based on behavior (RFM) | SQL, Python |  |  |
-| Churn Analysis | Identify why customers leave | EDA, Visualization |  |  |
+| Wheather Analysis | Create wheather insights using API for different cities  | SQL, Python | in progress |  |
+| Churn Analysis | Identify why customers leave | EDA, Visualization | in progress |  |
 | A/B Testing | Compare performance of two versions | Statistics |  |  |
 | Supply Chain Analysis | Analyze demand and inventory | Data Analysis |  |  |
 
